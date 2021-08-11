@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-image: url(images/regbg9.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 1000px;
+    height: 650px;
+    position: center;
+    margin:auto;
+    margin-top: 30px;
+    font-family: sans-serif;
+    border-radius: 8px;
+    
+}
+.regform{
+    width: 800px;
+    background-color: rgb(0,0,0,0.6);
+    margin: auto;
+    color: white;
+    padding: 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+
+}
+.main{
+    width: 800px;
+    height: 550px;
+    margin: auto;
+    background-color: rgb(0,0,0,0.5);
+    border-radius: 0px 0px 15px 15px;
+    
+}
+.container2{
+    margin-left: 10em;
+}
+#name{
+    width: 100%;
+    height: px;
+}
+#float{
+    float: left;
+}
+.name, .name1{
+    margin-left: -100px;
+    margin-top: px;
+    width: 125px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    padding-top: 30px;
+    
+}
+.name1{
+    position: relative;
+    top: 20px;
+}
+#nam{
+    position: relative;
+    top: 19px;
+    right: -5px;
+}
+input.firstname, .email, .code, .password{
+    position: relative;
+    top: -10px;
+    left: 20px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    border: none;
+}
+.email{
+    width: 270px;
+    position: relative;
+    left: 20px;
+}
+.code{
+    width: 80px;
+}
+.number{
+    width: 300px;
+    position: relative;
+    top: ;
+    left: -4px;
+}
+.option{
+    width: 150px;
+    position: relative;
+    height: 35px;
+    border: none;
+    top: -10px;
+   
+}
+#option1{
+    position: relative;
+    left: 20px;
+}
+#option{
+    position: relative;
+    left: 29px;
+    top: -8px;
+}
+.lastname, .number, .repassword{
+    position: relative;
+    top: -10px;
+    left: ;
+    line-height: 35px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    border: none;
+}
+#acode{
+    position: relative;
+    left: -106px;
+}
+#pnumber{
+    position: relative;
+    left: -340px;
+}
+#gender{
+    position: relative;
+    left: -135px;
+}
+.firstlabel, .area-code, .passkey, .phone-number, .dept, .level, .gender, .emlabel{
+    position: relative;
+    color: white    ;
+    left: -220px;
+    top: 16px;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+
+.lastlabel{
+    position: relative;
+    color: white;
+    left: -237px;
+    top: 16px;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+#field{
+    position: relative;
+    top: 20px;
+    left: 5px;
+
+}
+.course{
+    position: relative;
+    top: -10px;
+    left: 20px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    border: none;
+    width: 270px;
+
+}
+select{
+    line-height: 35px;
+    border-radius: 6px;
+    width: 100px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+#literate{
+    width: 300px;
+    
+}
+.radio{
+    position: relative;
+    top: ;
+    right: -220px;
+    
+}
+.phone-number, .passkey{
+    position: relative;
+    top: ;
+    left: -222px;
+}
+#passkey{
+    position: relative;
+    left: -240px;
+}
+.emlabel{
+    position: relative;
+    left: -297px;
+}
+.dept{
+    position: relative;
+    left: -297px;
+}
+.level{
+    position: relative;
+    left: -131px;
+}
+#gender{
+    position: relative;
+    left: -119px;
+}
+.radio{
+    position: relative;
+    left: 163px;
+    bottom: 17px;
+}
+button{
+    position: relative;
+    left: 110px;
+    bottom: -1px;
+    width: 280px;
+    height: 35px;
+    border-radius: 6px;
+    background-color: rgb(73, 194, 250);
+    border: none;
+    
+}
